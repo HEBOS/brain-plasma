@@ -13,9 +13,7 @@ setup(
     author_email = 'russellromney@gmail.com',
     license = 'MIT',
     packages = find_packages(),
-    install_requires = [
-        'pyarrow>=0.13.0',
-    ],
+    install_requires = [],
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
